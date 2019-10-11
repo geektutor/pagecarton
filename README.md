@@ -9,7 +9,7 @@ CONTENTS OF THIS FILE
 
 ABOUT PAGECARTON
 ------------
-A tool to build a great website in 2 hrs or less - fast and easy. Automate things programmers & designers spend several hours putting together. When installed on your server, PageCarton will help you publish contents to the internet. PageCarton is a fully-functional open source content management system. It is pretty much good for all kinds of web projects. Being fully extensible, you could even do more with PageCarton through Plugins, Modules, Layout Templates, Styles and much more. For more information, see the PageCarton website at http://www.PageCarton.org
+A tool to build a great website in two hours or less - fast and easy. Automate things programmers & designers spend several hours putting together. When installed on your server, PageCarton will help you publish contents to the internet. PageCarton is a fully-functional open source content management system. It is pretty much good for all kinds of web projects. Being fully extensible, you could even do more with PageCarton through Plugins, Modules, Layout Templates, Styles and much more. For more information, see the PageCarton website at http://www.PageCarton.org
 
 PageCarton is free and OpenSource software distributed under the GNU General Public License version 2 or later.
 
